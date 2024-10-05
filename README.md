@@ -56,7 +56,7 @@ To run this project locally, ensure you have Python 3.8+ installed. You can set 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/LandVista.git
+   git clone https://github.com/ashutosh-dhawan2003/LandVista.git
    cd LandVista
    ```
 
